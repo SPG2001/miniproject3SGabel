@@ -1,4 +1,7 @@
-#!/usr/bin/env python
+# INF601 - Advanced Programming in Python
+# Stephen Gabel
+# Mini Project 4
+
 """Django's command-line utility for administrative tasks."""
 import os
 import sys

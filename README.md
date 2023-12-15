@@ -10,6 +10,22 @@ I truly do not know why.
 pip install -r requirements.txt
 ```
 
+### Once requirements are installed, run these commands:
+
+```
+python manage.py makemigrations
+```
+
+```
+python manage.py migrate
+```
+
+```
+python manage.py createsuperuser
+```
+
+
+
 ### To start the server, run the following command:
 
 ```
